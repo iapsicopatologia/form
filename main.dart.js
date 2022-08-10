@@ -69508,7 +69508,7 @@ return A.aH(A.aA(B.ea,A.ao(A.a([A.cB("assets/home_image-removebg.png",B.z,s,300,
 A.aoF.prototype={
 $0(){var s=$.c
 if(s==null)s=$.c=A.j().l(t.I).b
-s.x.t("/senso",t.X)},
+s.x.t("/consc",t.X)},
 $S:0}
 A.aoG.prototype={
 $0(){var s=$.c
