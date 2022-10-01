@@ -67499,7 +67499,7 @@ A.a5B.prototype={
 $2(a,b){var s
 Date.now()
 s=b.c
-if(s==null)s=20
+if(s==null)s=1
 return new A.r9(new A.a5A(new A.bR(A.w(t.N,t.z),$.ar(),t.mO)),s,null)},
 $S:440}
 A.r9.prototype={
