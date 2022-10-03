@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "8dda7392aaaf0934aa5b3d15e47815e7",
+  "assets/AssetManifest.json": "b8dc4386da13bfa7c2c71cbce286afe5",
 "assets/assets/AI_1.jpg": "7dccea65d7bac9e1def8811c8b366a0c",
 "assets/assets/arara.png": "6afac18a7e26363ee9d5fefe12a395a8",
 "assets/assets/arara_free.jpg": "f15b8e0924e80ba3a9eda306a6c9b330",
@@ -14,7 +14,6 @@ const RESOURCES = {
 "assets/assets/audios/4_palavras.mp3": "05a50eb6b5aa4d70f4451cb611a73c74",
 "assets/assets/audios/4_palavras_new.mp3": "05a50eb6b5aa4d70f4451cb611a73c74",
 "assets/assets/audios/aguacorrente-edited_v2.mp3": "43b19d83ad60fd4bce057690783df54b",
-"assets/assets/audios/Chapeuzinho_Vermelho_cutted_smaller.mp3": "c926f7da9b8bd5737d0c16e6c3e22f73",
 "assets/assets/audios/chuva_edited.mp3": "9605f524e60c150203a86342904098a7",
 "assets/assets/cachorro.png": "50c15c0a75903a439e1ce41af68ff0bc",
 "assets/assets/cachorro_free.png": "f127999c4f1cce622962e1e3a744ce27",
@@ -32,6 +31,8 @@ const RESOURCES = {
 "assets/assets/emotion4.png": "6f4233bbea6a632f69ce01b672c22f8f",
 "assets/assets/emotion5.png": "90f3ae27bde792f28a227408f30a2abd",
 "assets/assets/emotion6.png": "68ab5b0c215e9272b855b97237156ed8",
+"assets/assets/five_errors1.jpg": "68bf6e6fb27f7db422fc122a4734d1e0",
+"assets/assets/five_errors2.jpg": "df22e49a2ba8d3e09b877092e2265035",
 "assets/assets/home_free.png": "2a35950194f03c6a05d5bedd7288a70d",
 "assets/assets/intel_1.png": "8347e50075486ae76575a50a61cbf35e",
 "assets/assets/intel_1a.png": "eec20acd253e7d808d53fb604675570b",
@@ -63,6 +64,7 @@ const RESOURCES = {
 "assets/assets/pomba.png": "f9e10fa41083f2513dc5ef25fe3f91eb",
 "assets/assets/pomba_free.png": "30a7b653b878340510bec401aa4041e1",
 "assets/assets/ponte_free.jpg": "fae5ef3ef6b587865c6ce1b509a833ee",
+"assets/assets/pontos.jpg": "1b0b6a5bff658e892654edddc5580ac5",
 "assets/assets/teste_logica_3.png": "f9cc5dce11e357f5dcd1abefc0c0495a",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/fonts/MaterialIcons-Regular.otf": "95db9098c58fd6db106f1116bae85a0b",
@@ -335,9 +337,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "1399f973b51b33ce4370a9547350250e",
-"/": "1399f973b51b33ce4370a9547350250e",
-"main.dart.js": "81a4c8eec6398a0b2513fbe45e6d6180",
+"index.html": "073ae937c6df60b4c9b2921c761111c0",
+"/": "073ae937c6df60b4c9b2921c761111c0",
+"main.dart.js": "6eb8c21f082804a5520b8d43e1ba4f49",
 "manifest.json": "b10d1f42962c72025e561082ad9ac588",
 "version.json": "dd75e386ed00e07c7ef4778e055cdb20"
 };
