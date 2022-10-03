@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "7afe33935c4b74da0cdb036c0feb71e1",
+  "assets/AssetManifest.json": "c951c17f0a40db98d57bc74e58275411",
 "assets/assets/AI_1.jpg": "7dccea65d7bac9e1def8811c8b366a0c",
 "assets/assets/arara.png": "6afac18a7e26363ee9d5fefe12a395a8",
 "assets/assets/arara_free.jpg": "f15b8e0924e80ba3a9eda306a6c9b330",
@@ -11,7 +11,9 @@ const RESOURCES = {
 "assets/assets/arvore2.png": "f807ee08216af405ad042b38353b6cc8",
 "assets/assets/arvore_free.png": "973cafdac6d739f1c161ca7f4976d9e1",
 "assets/assets/audios/aguacorrente-edited_v2.mp3": "43b19d83ad60fd4bce057690783df54b",
+"assets/assets/audios/chuva.mp3": "44fd53eb44e2778bf261aa15f0cc5203",
 "assets/assets/audios/chuva_edited.mp3": "9605f524e60c150203a86342904098a7",
+"assets/assets/audios/chuva_edited.wav": "78f0311224acfa9b58a512cbfca736b2",
 "assets/assets/audios/dez_palavras.mp3": "d51b10ccee7f39916ea702ac971302e2",
 "assets/assets/audios/quatro_palavras.mp3": "05a50eb6b5aa4d70f4451cb611a73c74",
 "assets/assets/cachorro.png": "50c15c0a75903a439e1ce41af68ff0bc",
@@ -336,9 +338,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "fb7161c52041613b7f51d4710ef0359e",
-"/": "fb7161c52041613b7f51d4710ef0359e",
-"main.dart.js": "771ce76ae3520a6b6be96a3498282276",
+"index.html": "1b176c70c5f621b83e8ee84495a0e6a6",
+"/": "1b176c70c5f621b83e8ee84495a0e6a6",
+"main.dart.js": "e0ae9907cccbf00dd55a2795fe40c431",
 "manifest.json": "b10d1f42962c72025e561082ad9ac588",
 "version.json": "dd75e386ed00e07c7ef4778e055cdb20"
 };
