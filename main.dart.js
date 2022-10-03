@@ -71458,7 +71458,7 @@ J(a){var s,r,q=this,p=null
 q.a.d.sn(0,A.ae(["answer",""],t.N,t.z))
 s=B.m.h(0,q.a.c).h(0,"header")===""?p:A.cq(B.m.h(0,q.a.c).h(0,"header"),p,p,p,p,B.x9,B.S,p)
 r=t.p
-return A.cP(A.a([new A.dg(p,s,p),B.ch,new A.wX(2,new A.dg(B.MV,A.iC(new A.Ay(A.a([A.xN(B.m.h(0,q.a.c).h(0,"image1"),B.co,p,p),A.xN(B.m.h(0,q.a.c).h(0,"image2"),B.co,p,p)],r),p),750,400),p),p)],r),B.y,B.x,B.t)}}
+return A.cP(A.a([new A.dg(p,s,p),B.ch,new A.wX(2,new A.dg(B.MV,A.iC(new A.Ay(A.a([A.xN(B.m.h(0,q.a.c).h(0,"image1"),B.co,p,p),A.xN(B.m.h(0,q.a.c).h(0,"image2"),B.co,p,p)],r),p),700,400),p),p)],r),B.y,B.x,B.t)}}
 A.B0.prototype={
 a6(){return new A.T8(new A.aY(null,t.am),B.i)}}
 A.T8.prototype={
