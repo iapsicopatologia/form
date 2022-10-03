@@ -3,18 +3,17 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "b8dc4386da13bfa7c2c71cbce286afe5",
+  "assets/AssetManifest.json": "7afe33935c4b74da0cdb036c0feb71e1",
 "assets/assets/AI_1.jpg": "7dccea65d7bac9e1def8811c8b366a0c",
 "assets/assets/arara.png": "6afac18a7e26363ee9d5fefe12a395a8",
 "assets/assets/arara_free.jpg": "f15b8e0924e80ba3a9eda306a6c9b330",
 "assets/assets/arvore.png": "7a7b2e8cdc2b79b3d5a7639052d0abf6",
 "assets/assets/arvore2.png": "f807ee08216af405ad042b38353b6cc8",
 "assets/assets/arvore_free.png": "973cafdac6d739f1c161ca7f4976d9e1",
-"assets/assets/audios/10palavras.mp3": "d51b10ccee7f39916ea702ac971302e2",
-"assets/assets/audios/4_palavras.mp3": "05a50eb6b5aa4d70f4451cb611a73c74",
-"assets/assets/audios/4_palavras_new.mp3": "05a50eb6b5aa4d70f4451cb611a73c74",
 "assets/assets/audios/aguacorrente-edited_v2.mp3": "43b19d83ad60fd4bce057690783df54b",
 "assets/assets/audios/chuva_edited.mp3": "9605f524e60c150203a86342904098a7",
+"assets/assets/audios/dez_palavras.mp3": "d51b10ccee7f39916ea702ac971302e2",
+"assets/assets/audios/quatro_palavras.mp3": "05a50eb6b5aa4d70f4451cb611a73c74",
 "assets/assets/cachorro.png": "50c15c0a75903a439e1ce41af68ff0bc",
 "assets/assets/cachorro_free.png": "f127999c4f1cce622962e1e3a744ce27",
 "assets/assets/car.png": "abdbd173388aeb3d091f96efca9d3461",
@@ -337,9 +336,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "073ae937c6df60b4c9b2921c761111c0",
-"/": "073ae937c6df60b4c9b2921c761111c0",
-"main.dart.js": "6eb8c21f082804a5520b8d43e1ba4f49",
+"index.html": "0ee57d783556eefa2a7e925284c9c99b",
+"/": "0ee57d783556eefa2a7e925284c9c99b",
+"main.dart.js": "b8a39371c66824eef8e21d69a9631052",
 "manifest.json": "b10d1f42962c72025e561082ad9ac588",
 "version.json": "dd75e386ed00e07c7ef4778e055cdb20"
 };
