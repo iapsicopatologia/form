@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "38baab8002a1e3ad61f0df8ec1cd11c9",
+  "assets/AssetManifest.json": "42cb1c4d0e501350689a2f9f97bdb3c6",
 "assets/assets/AI_1.jpg": "7dccea65d7bac9e1def8811c8b366a0c",
 "assets/assets/arvore_free.png": "973cafdac6d739f1c161ca7f4976d9e1",
 "assets/assets/audios/aguacorrente-edited_v2.mp3": "43b19d83ad60fd4bce057690783df54b",
@@ -17,8 +17,7 @@ const RESOURCES = {
 "assets/assets/casa_free.png": "175b8583d621db7b71cfe0a8bd6ff20b",
 "assets/assets/cat_free.png": "b653aac5910ad515b14db8112577ab99",
 "assets/assets/coracao_free.png": "e231871febb7f45a6f572b979e8d344d",
-"assets/assets/dog_app.png": "4a74624c6ad24a14a0be0951fedf6dd6",
-"assets/assets/dog_app_free.png": "b705f84ac9bfe78cb8f389ec45fe31e5",
+"assets/assets/Ebbinghaus.png": "d014b8dbaeda19ce707bb7376c127ec5",
 "assets/assets/emotion1.png": "90373d6edd96d3b85aecf823f450253d",
 "assets/assets/emotion2.png": "5bdbfa2c9bac859c7918b9462808a160",
 "assets/assets/emotion3.png": "526c424f5f2aa857a65024b80e823869",
@@ -327,9 +326,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "7a97076f1574fe715dd57b456bfac229",
-"/": "7a97076f1574fe715dd57b456bfac229",
-"main.dart.js": "3fe7ce2be623fd82203e0c565c08afdc",
+"index.html": "f7ca658b0d954566ee34cd444ed56b4d",
+"/": "f7ca658b0d954566ee34cd444ed56b4d",
+"main.dart.js": "f6b9ecd6c1e6fa5b1db52269a5869377",
 "manifest.json": "b10d1f42962c72025e561082ad9ac588",
 "version.json": "dd75e386ed00e07c7ef4778e055cdb20"
 };
